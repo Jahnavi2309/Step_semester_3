@@ -1,0 +1,6 @@
+# Java compiler output
+*.class
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
